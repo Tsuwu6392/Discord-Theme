@@ -1,7 +1,7 @@
 @import url('https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css');
 
 ::placeholder, body, button, input, select, textarea {
-    font-family: 'Roboto', sans-serif !important;
+    font-family: 'Fira Code', sans-serif !important;
 }
 
 code, code.inline, .line-numbers, .ace_editor,
