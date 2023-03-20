@@ -1,0 +1,11 @@
+@import url('https://cdn.jsdelivr.net/gh/tonsky/FiraCode@4/distr/fira_code.css');
+
+::placeholder, body, button, input, select, textarea {
+    font-family: 'Fira Code', sans-serif !important;
+}
+
+code, code.inline, .line-numbers, .ace_editor,
+.after_inlineCode-1KfVgj, .before_inlineCode-1G9rTK, .inlineCode-2ngu6Y,
+.codeBlockText-9TnoxQ, .codeLine-14BKbG {
+    font-family: 'Fira Code', monospace !important;
+}
