@@ -24,7 +24,7 @@
 ---------------------------------------------------------------*/
 
 /* Animate the background */
-
+@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-animation.css');
 
 /* Add transparency for background images */
 /* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-image.css'); */
@@ -59,7 +59,7 @@
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
     --H: 339; /* Value in numbers [339 is default] */
     --S: 97%; /* Value in % [97% is default] */
-    --L: 71%; /* Value in % [71% is default] */
+    --L: 50%; /* Value in % [71% is default] */
 
     /* HSL DarkTheme */
     --darkH: 0;     /* Value in numbers [0 is default] */
