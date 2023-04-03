@@ -38,15 +38,15 @@
     --custom-text: "";
 
     /* General Colors */
-    --border-color: #598af3;
-    --drag-gradient1: #598af3;
-    --drag-gradient2: #598af3;
-    --name-bg: #598af3;
+    --border-color: #da4a60;
+    --drag-gradient1: #e8c4d3;
+    --drag-gradient2: #e39ba7;
+    --name-bg: #d95b72;
 
     /* Background Colors & BG Image */
-    --bg-gradient1: #598af3;
-    --bg-gradient2: #598af3;
-    --bg-gradient3: #598af3;
+    --bg-gradient1: #e297b2;
+    --bg-gradient2: #c0b4d5;
+    --bg-gradient3: #54b5de;
     --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
