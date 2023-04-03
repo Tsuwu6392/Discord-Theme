@@ -100,3 +100,10 @@
 /*------------------------------------------------------
                 anything else down here
 ------------------------------------------------------*/
+.withFrame-2dL45i {
+    flex-direction: row-reverse !important;
+}
+.winButton-3UMjdg {
+    right: 4px !important;
+    left: unset !important;
+}
