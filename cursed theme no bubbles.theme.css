@@ -38,9 +38,9 @@
     --custom-text: "";
 
     /* General Colors */
-    --border-color: #c68be2;
-    --drag-gradient1: #d4b1e6;
-    --drag-gradient2: #d4b1e6;
+    --border-color: #da4a60;
+    --drag-gradient1: #e8c4d3;
+    --drag-gradient2: #e39ba7;
     --name-bg: #d95b72;
 
     /* Background Colors & BG Image */
@@ -62,7 +62,7 @@
     --darkL: 16%;   /* Value in % [16% is default] */
 
     /* Windows Buttons Colors */
-    --close-color: #da5169;
+    --close-color: #808080;
     --max-color: #ffdf5b;
     --min-color: #00a0cb;
 
